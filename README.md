@@ -45,8 +45,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama116&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama116&layout=compact&theme=radical)  
+ 
 
 ---
 
