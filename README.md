@@ -48,7 +48,11 @@
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama116&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama116&layout=compact&theme=radical)  
- 
+
+---
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ramalingamjod?theme=radical&font=Karma&ext=heatmap)
 
 ---
 
