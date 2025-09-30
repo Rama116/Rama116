@@ -40,7 +40,7 @@
 - 💊 **Medi Merge Market** – Healthcare marketplace using PHP, SQL.  
 - ☁️ **Weather App** – Simple app for live weather updates.  
 
-➡️ Check out more in my [repositories](https://github.com/your-username?tab=repositories).  
+➡️ Check out more in my [repositories](https://github.com/Rama116?tab=repositories).  
 
 ---
 
@@ -53,9 +53,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalingam-m-599955276/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramalingamjod/)  
 
 ---
-⭐️ From [Rama](https://github.com/your-username)
+⭐️ From [Rama](https://github.com/Rama116)
