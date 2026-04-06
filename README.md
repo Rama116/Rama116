@@ -1,6 +1,6 @@
 # Hey there, I'm Ramalingam (Rama)
 
-Final Year Engineering Student | Aspiring Full Stack Developer 
+Final Year Engineering Student | Full Stack Developer
 
 ---
 
