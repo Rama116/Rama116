@@ -1,6 +1,6 @@
 # Hey there, I'm Ramalingam (Rama)
 
-💻 Final Year Engineering Student | Aspiring Full Stack Developer 
+Final Year Engineering Student | Aspiring Full Stack Developer 
 
 ---
 
@@ -30,13 +30,6 @@
 ## Projects
 
 ➡️ Check out in my [repositories](https://github.com/Rama116?tab=repositories).  
-
----
-
-## GitHub Stats
-![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama116&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama116&layout=compact&theme=radical)  
 
 ---
 
