@@ -4,36 +4,32 @@
 
 ---
 
-## 🌟 About Me
-- 🎯 Passionate about **Full Stack Development** with a focus on **MERN stack**.  
-- 📚 Strong foundation in **Java**, **Problem Solving**, and **SQL**.  
+## About Me
+- Passionate about **Full Stack Development** with a focus on **MERN stack**.  
+- Strong foundation in **Java**, **Problem Solving**, and **SQL**.  
 
 ---
 
-## 🛠️ Tech Stack
-### 🌐 Frontend
+## Tech Stack
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛢️ Database
+### Database
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-116149?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Projects
-- **Chat Web App** – Real-time chat using MERN + Socket.IO.  
-- **Foodie Staurant** – Food ordering app with React.  
-- **Medi Merge Market** – Healthcare marketplace using PHP, SQL.  
-- **Weather App** – Simple app for live weather updates.  
+## Projects
 
-➡️ Check out more in my [repositories](https://github.com/Rama116?tab=repositories).  
+➡️ Check out in my [repositories](https://github.com/Rama116?tab=repositories).  
 
 ---
 
