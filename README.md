@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Ramalingam (Rama)
+# Hey there, I'm Ramalingam (Rama)
 
-💻 Final Year Engineering Student | 🚀 Aspiring Full Stack Developer (MERN)  
+💻 Final Year Engineering Student | Aspiring Full Stack Developer 
 
 ---
 
@@ -28,31 +28,31 @@
 ---
 
 ## 🚀 Projects
-- 💬 **Chat Web App** – Real-time chat using MERN + Socket.IO.  
-- 🍔 **Foodie Staurant** – Food ordering app with React.  
-- 💊 **Medi Merge Market** – Healthcare marketplace using PHP, SQL.  
-- ☁️ **Weather App** – Simple app for live weather updates.  
+- **Chat Web App** – Real-time chat using MERN + Socket.IO.  
+- **Foodie Staurant** – Food ordering app with React.  
+- **Medi Merge Market** – Healthcare marketplace using PHP, SQL.  
+- **Weather App** – Simple app for live weather updates.  
 
 ➡️ Check out more in my [repositories](https://github.com/Rama116?tab=repositories).  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama116&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama116&layout=compact&theme=radical)  
 
 ---
 
-## 🏆 LeetCode Stats
+## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ramalingamjod?theme=radical&font=Karma&ext=heatmap)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalingam-m-599955276/) 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramalingamjod/)  
 
 ---
-⭐️ From [Rama](https://github.com/Rama116)
+From [Rama](https://github.com/Rama116)
