@@ -5,8 +5,8 @@ Final Year Engineering Student | Aspiring Full Stack Developer
 ---
 
 ## About Me
-- Passionate about **Full Stack Development** with a focus on **MERN stack**.  
-- Strong foundation in **Java**, **Problem Solving**, and **SQL**.  
+- Passionate about **Full Stack Development**.  
+- Strong foundation in **Java**, **Problem Solving**, **RestApi**, **Mern** and **SQL**.  
 
 ---
 
